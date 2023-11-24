@@ -3,8 +3,6 @@ channels:
   - dnachun
   - conda-forge
 dependencies:
-  - _libgcc_mutex=0.1
-  - _openmp_mutex=4.5
   - asttokens=2.4.1
   - backcall=0.2.0
   - backoff=1.11.1
@@ -56,10 +54,8 @@ dependencies:
   - jupyter_client=8.6.0
   - jupyter_core=5.5.0
   - kealib=1.5.2
-  - keyutils=1.6.1
   - krb5=1.21.2
   - lcms2=2.15
-  - ld_impl_linux-64=2.40
   - lerc=4.0.0
   - libabseil=20230802.1
   - libaec=1.1.2
@@ -72,12 +68,9 @@ dependencies:
   - libev=4.33
   - libexpat=2.5.0
   - libffi=3.4.2
-  - libgcc-ng=13.2.0
   - libgdal=3.7.3
-  - libgfortran-ng=13.2.0
   - libgfortran5=13.2.0
   - libglib=2.78.1
-  - libgomp=13.2.0
   - libgoogle-cloud=2.12.0
   - libgrpc=1.59.2
   - libiconv=1.17
@@ -85,7 +78,6 @@ dependencies:
   - libkml=1.3.0
   - libnetcdf=4.9.2
   - libnghttp2=1.58.0
-  - libnsl=2.0.1
   - libpng=1.6.39
   - libpq=16.1
   - libprotobuf=4.24.4
@@ -95,7 +87,6 @@ dependencies:
   - libspatialite=5.1.0
   - libsqlite=3.44.0
   - libssh2=1.11.0
-  - libstdcxx-ng=13.2.0
   - libtiff=4.6.0
   - libuuid=2.38.1
   - libuv=1.46.0
@@ -130,7 +121,7 @@ dependencies:
   - ploomber-core=0.2.16
   - poppler=23.11.0
   - poppler-data=0.4.12
-  - postgis=3.4.0
+  - postgis
   - postgresql=16.1
   - posthog=3.0.2
   - prettytable=3.9.0
