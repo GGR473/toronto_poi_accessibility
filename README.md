@@ -1,3 +1,8 @@
 # Accessibility by Transit in Toronto
+by Jedwin Mok, Harrison Deng, and Nick Chan
 
-README IN PROGRESS
+## Overview
+
+## Database
+
+## Analysis
