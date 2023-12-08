@@ -1,3 +1,3 @@
-# toronto_poi_accessibility
+# Accessibility by Transit in Toronto
 
 README IN PROGRESS
