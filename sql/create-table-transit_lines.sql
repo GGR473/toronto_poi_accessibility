@@ -1,9 +1,10 @@
 CREATE TABLE transit_lines AS
 SELECT 
-  id,
-  status,
-  technology,
-  name,
+  STATUS,
+  TECHNOLOGY,
+  NAME,
   Shape_Leng,
   geometry
-FROM RTP_TRANSIT_NETWORK;
+FROM transit_network_raw;
+
+SELECT * FROM transit_lines;
