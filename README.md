@@ -7,7 +7,6 @@ A comprehensive accessibility analysis of Toronto's current(2023) and future(203
 
 Data is sourced from:
 - Toronto Open Data
-- Statistics Canada
 - Metrolinx Open Data
 - Open Street Maps
 
