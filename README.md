@@ -15,4 +15,9 @@ Data is sourced from:
 The postgres database for this project was constructed through SQL dumps from data aquired from the various sources above. The `sql` folder includes the CREATE and SELECT scripts used to filter and organize these dumps. 
 
 ## Analysis
+Analysis for this project (used in the final report) were conducted through various means using the data organized in the database. 
+- Python
+- ArcGIS Pro
+- QGIS
 
+The `python_analysis` folder contains the jupyter notebook used specifically to generate isochrone maps, measuring accessibility to various areas of the city. 
